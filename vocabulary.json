@@ -1,0 +1,602 @@
+[
+    {
+        "it": "buongiorno",
+        "pl": "dzień dobry",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "grazie mille",
+        "pl": "dziękuję bardzo",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "per favore",
+        "pl": "proszę",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "prego",
+        "pl": "nie ma za co",
+        "lvl": 1,
+        "learned": false
+    },
+    {
+        "it": "scusa",
+        "pl": "przepraszam",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "come stai",
+        "pl": "jak się masz",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "molto bene",
+        "pl": "bardzo dobrze",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "piacere",
+        "pl": "miło mi",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "arrivederci",
+        "pl": "do widzenia",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "ciao",
+        "pl": "cześć",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "arancini",
+        "pl": "smażone kulki ryżowe",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "cannolo",
+        "pl": "rurka z kremem",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "gelato",
+        "pl": "lody",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "pizza",
+        "pl": "pizza",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "pasta",
+        "pl": "makaron",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "acqua",
+        "pl": "woda",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "birra",
+        "pl": "piwo",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "vino",
+        "pl": "wino",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "colazione",
+        "pl": "śniadanie",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "pranzo",
+        "pl": "obiad",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "cena",
+        "pl": "kolacja",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "il conto",
+        "pl": "rachunek",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "mare",
+        "pl": "morze",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "sole",
+        "pl": "słońce",
+        "lvl": 1,
+        "learned": false
+    },
+    {
+        "it": "spiaggia",
+        "pl": "plaża",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "piazza",
+        "pl": "plac",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "strada",
+        "pl": "ulica",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "stazione",
+        "pl": "stacja",
+        "lvl": 1,
+        "learned": false
+    },
+    {
+        "it": "aeroporto",
+        "pl": "lotnisko",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "biglietto",
+        "pl": "bilet",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "treno",
+        "pl": "pociąg",
+        "lvl": 1,
+        "learned": false
+    },
+    {
+        "it": "macchina",
+        "pl": "samochód",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "lavoro",
+        "pl": "praca",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "ufficio",
+        "pl": "biuro",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "computer",
+        "pl": "komputer",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "studio",
+        "pl": "studiowanie",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "imparare",
+        "pl": "uczyć się",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "scrivere",
+        "pl": "pisać",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "leggere",
+        "pl": "czytać",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "programmare",
+        "pl": "programować",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "oggi",
+        "pl": "dzisiaj",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "domani",
+        "pl": "jutro",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "ieri",
+        "pl": "wczoraj",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "ora",
+        "pl": "godzina",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "settimana",
+        "pl": "tydzień",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "uno",
+        "pl": "jeden",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "due",
+        "pl": "dwa",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "tre",
+        "pl": "trzy",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "quattro",
+        "pl": "cztery",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "cinque",
+        "pl": "pięć",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "grazie",
+        "pl": "dziekuje",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "prego",
+        "pl": "prosze",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "per favore",
+        "pl": "poprosze",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "buongiorno",
+        "pl": "dzien dobry",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "buonasera",
+        "pl": "dobry wieczor",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "arrivederci",
+        "pl": "do widzenia",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "scusa",
+        "pl": "przepraszam",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "acqua",
+        "pl": "woda",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "birra",
+        "pl": "piwo",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "vino",
+        "pl": "wino",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "caffe",
+        "pl": "kawa",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "pane",
+        "pl": "chleb",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "formaggio",
+        "pl": "ser",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "carne",
+        "pl": "mieso",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "pesce",
+        "pl": "ryba",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "spiaggia",
+        "pl": "plaza",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "mare",
+        "pl": "morze",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "sole",
+        "pl": "slonce",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "caldo",
+        "pl": "goraco",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "freddo",
+        "pl": "zimno",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "conto",
+        "pl": "rachunek",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "quanto costa",
+        "pl": "ile kosztuje",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "dove",
+        "pl": "gdzie",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "bagno",
+        "pl": "lazienka",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "treno",
+        "pl": "pociag",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "autobus",
+        "pl": "autobus",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "biglietto",
+        "pl": "bilet",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "stazione",
+        "pl": "stacja",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "aeroporto",
+        "pl": "lotnisko",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "aereo",
+        "pl": "samolot",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "destra",
+        "pl": "prawo",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "sinistra",
+        "pl": "lewo",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "dritto",
+        "pl": "prosto",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "mangiare",
+        "pl": "jesc",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "bere",
+        "pl": "pic",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "dormire",
+        "pl": "spac",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "parlare",
+        "pl": "mowic",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "capire",
+        "pl": "rozumiec",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "aiuto",
+        "pl": "pomoc",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "medico",
+        "pl": "lekarz",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "farmacia",
+        "pl": "apteka",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "strada",
+        "pl": "ulica",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "piazza",
+        "pl": "plac",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "oggi",
+        "pl": "dzisiaj",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "domani",
+        "pl": "jutro",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "ieri",
+        "pl": "wczoraj",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "sempre",
+        "pl": "zawsze",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "mai",
+        "pl": "nigdy",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "amico",
+        "pl": "przyjaciel",
+        "lvl": 0,
+        "learned": false
+    },
+    {
+        "it": "soldi",
+        "pl": "pieniadze",
+        "lvl": 0,
+        "learned": false
+    }
+]
