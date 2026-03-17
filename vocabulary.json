@@ -1,0 +1,702 @@
+[
+    {
+        "it": "buongiorno",
+        "pl": "dzień dobry",
+        "lvl": 0,
+        "sentence_it": "Buongiorno, vorrei un caffè.",
+        "sentence_pl": "Dzień dobry, chciałbym kawę."
+    },
+    {
+        "it": "grazie mille",
+        "pl": "dziękuję bardzo",
+        "lvl": 0,
+        "sentence_it": "Grazie mille per l'aiuto.",
+        "sentence_pl": "Dziękuję bardzo za pomoc."
+    },
+    {
+        "it": "per favore",
+        "pl": "proszę",
+        "lvl": 0,
+        "sentence_it": "Un gelato, per favore.",
+        "sentence_pl": "Jedne lody, proszę."
+    },
+    {
+        "it": "prego",
+        "pl": "nie ma za co",
+        "lvl": 1,
+        "sentence_it": "Prego, figurati!",
+        "sentence_pl": "Nie ma za co, drobnostka!"
+    },
+    {
+        "it": "scusa",
+        "pl": "przepraszam",
+        "lvl": 0,
+        "sentence_it": "Scusa, dov'è il bagno?",
+        "sentence_pl": "Przepraszam, gdzie jest łazienka?"
+    },
+    {
+        "it": "come stai",
+        "pl": "jak się masz",
+        "lvl": 0,
+        "sentence_it": "Ciao amico, come stai?",
+        "sentence_pl": "Cześć przyjacielu, jak się masz?"
+    },
+    {
+        "it": "molto bene",
+        "pl": "bardzo dobrze",
+        "lvl": 0,
+        "sentence_it": "Sto molto bene, grazie.",
+        "sentence_pl": "Czuję się bardzo dobrze, dziękuję."
+    },
+    {
+        "it": "piacere",
+        "pl": "miło mi",
+        "lvl": 0,
+        "sentence_it": "Piacere di conoscerti.",
+        "sentence_pl": "Miło mi cię poznać."
+    },
+    {
+        "it": "arrivederci",
+        "pl": "do widzenia",
+        "lvl": 0,
+        "sentence_it": "Arrivederci e buona giornata.",
+        "sentence_pl": "Do widzenia i miłego dnia."
+    },
+    {
+        "it": "ciao",
+        "pl": "cześć",
+        "lvl": 0,
+        "sentence_it": "Ciao, ci vediamo stasera.",
+        "sentence_pl": "Cześć, widzimy się wieczorem."
+    },
+    {
+        "it": "arancini",
+        "pl": "smażone kulki ryżowe",
+        "lvl": 0,
+        "sentence_it": "Vorrei due arancini al ragù.",
+        "sentence_pl": "Poproszę dwa arancini z mięsem."
+    },
+    {
+        "it": "cannolo",
+        "pl": "rurka z kremem",
+        "lvl": 0,
+        "sentence_it": "Prendo un cannolo siciliano.",
+        "sentence_pl": "Wezmę jedno sycylijskie cannolo."
+    },
+    {
+        "it": "gelato",
+        "pl": "lody",
+        "lvl": 0,
+        "sentence_it": "Mangiamo un gelato in piazza.",
+        "sentence_pl": "Zjedzmy lody na placu."
+    },
+    {
+        "it": "pizza",
+        "pl": "pizza",
+        "lvl": 1,
+        "sentence_it": "Una pizza Margherita, per favore.",
+        "sentence_pl": "Jedną pizzę Margheritę, proszę."
+    },
+    {
+        "it": "pasta",
+        "pl": "makaron",
+        "lvl": 0,
+        "sentence_it": "La pasta è molto buona.",
+        "sentence_pl": "Ten makaron jest bardzo dobry."
+    },
+    {
+        "it": "acqua",
+        "pl": "woda",
+        "lvl": 0,
+        "sentence_it": "Una bottiglia d'acqua, per favore.",
+        "sentence_pl": "Butelkę wody, proszę."
+    },
+    {
+        "it": "birra",
+        "pl": "piwo",
+        "lvl": 0,
+        "sentence_it": "Una birra fredda, per favore.",
+        "sentence_pl": "Jedno zimne piwo, proszę."
+    },
+    {
+        "it": "vino",
+        "pl": "wino",
+        "lvl": 0,
+        "sentence_it": "Un bicchiere di vino rosso.",
+        "sentence_pl": "Kieliszek czerwonego wina."
+    },
+    {
+        "it": "colazione",
+        "pl": "śniadanie",
+        "lvl": 0,
+        "sentence_it": "Facciamo colazione al bar.",
+        "sentence_pl": "Zjedzmy śniadanie w kawiarni."
+    },
+    {
+        "it": "pranzo",
+        "pl": "obiad",
+        "lvl": 0,
+        "sentence_it": "Dove andiamo per pranzo?",
+        "sentence_pl": "Gdzie idziemy na obiad?"
+    },
+    {
+        "it": "cena",
+        "pl": "kolacja",
+        "lvl": 0,
+        "sentence_it": "Offro io la cena stasera.",
+        "sentence_pl": "Ja stawiam kolację dziś wieczorem."
+    },
+    {
+        "it": "il conto",
+        "pl": "rachunek",
+        "lvl": 0,
+        "sentence_it": "Il conto, per favore.",
+        "sentence_pl": "Poproszę rachunek."
+    },
+    {
+        "it": "mare",
+        "pl": "morze",
+        "lvl": 0,
+        "sentence_it": "Andiamo a fare il bagno nel mare.",
+        "sentence_pl": "Idziemy się wykąpać w morzu."
+    },
+    {
+        "it": "sole",
+        "pl": "słońce",
+        "lvl": 1,
+        "sentence_it": "Oggi c'è un bel sole.",
+        "sentence_pl": "Dzisiaj jest piękne słońce."
+    },
+    {
+        "it": "spiaggia",
+        "pl": "plaża",
+        "lvl": 0,
+        "sentence_it": "Questa spiaggia è bellissima.",
+        "sentence_pl": "Ta plaża jest przepiękna."
+    },
+    {
+        "it": "piazza",
+        "pl": "plac",
+        "lvl": 0,
+        "sentence_it": "Ci incontriamo in piazza.",
+        "sentence_pl": "Spotykamy się na placu."
+    },
+    {
+        "it": "strada",
+        "pl": "ulica",
+        "lvl": 0,
+        "sentence_it": "Qual è la strada per il centro?",
+        "sentence_pl": "Jaka jest droga do centrum?"
+    },
+    {
+        "it": "stazione",
+        "pl": "stacja",
+        "lvl": 1,
+        "sentence_it": "Dov'è la stazione dei treni?",
+        "sentence_pl": "Gdzie jest stacja kolejowa?"
+    },
+    {
+        "it": "aeroporto",
+        "pl": "lotnisko",
+        "lvl": 0,
+        "sentence_it": "Devo andare all'aeroporto.",
+        "sentence_pl": "Muszę jechać na lotnisko."
+    },
+    {
+        "it": "biglietto",
+        "pl": "bilet",
+        "lvl": 0,
+        "sentence_it": "Devo comprare un biglietto.",
+        "sentence_pl": "Muszę kupić bilet."
+    },
+    {
+        "it": "treno",
+        "pl": "pociąg",
+        "lvl": 1,
+        "sentence_it": "Il treno parte alle due.",
+        "sentence_pl": "Pociąg odjeżdża o drugiej."
+    },
+    {
+        "it": "macchina",
+        "pl": "samochód",
+        "lvl": 0,
+        "sentence_it": "Ho parcheggiato la macchina qui.",
+        "sentence_pl": "Zaparkowałem tutaj samochód."
+    },
+    {
+        "it": "lavoro",
+        "pl": "praca",
+        "lvl": 0,
+        "sentence_it": "Sto cercando un nuovo lavoro.",
+        "sentence_pl": "Szukam nowej pracy."
+    },
+    {
+        "it": "ufficio",
+        "pl": "biuro",
+        "lvl": 0,
+        "sentence_it": "Lavoro in un ufficio moderno.",
+        "sentence_pl": "Pracuję w nowoczesnym biurze."
+    },
+    {
+        "it": "computer",
+        "pl": "komputer",
+        "lvl": 0,
+        "sentence_it": "Ho bisogno di un computer.",
+        "sentence_pl": "Potrzebuję komputera."
+    },
+    {
+        "it": "studio",
+        "pl": "studiowanie",
+        "lvl": 0,
+        "sentence_it": "Lo studio è molto importante.",
+        "sentence_pl": "Studiowanie jest bardzo ważne."
+    },
+    {
+        "it": "imparare",
+        "pl": "uczyć się",
+        "lvl": 0,
+        "sentence_it": "Voglio imparare l'italiano.",
+        "sentence_pl": "Chcę uczyć się włoskiego."
+    },
+    {
+        "it": "scrivere",
+        "pl": "pisać",
+        "lvl": 0,
+        "sentence_it": "Devo scrivere un'email.",
+        "sentence_pl": "Muszę napisać maila."
+    },
+    {
+        "it": "leggere",
+        "pl": "czytać",
+        "lvl": 0,
+        "sentence_it": "Mi piace leggere libri.",
+        "sentence_pl": "Lubię czytać książki."
+    },
+    {
+        "it": "programmare",
+        "pl": "programować",
+        "lvl": 0,
+        "sentence_it": "Sto imparando a programmare in Python.",
+        "sentence_pl": "Uczę się programować w Pythonie."
+    },
+    {
+        "it": "oggi",
+        "pl": "dzisiaj",
+        "lvl": 0,
+        "sentence_it": "Oggi fa molto caldo.",
+        "sentence_pl": "Dzisiaj jest bardzo gorąco."
+    },
+    {
+        "it": "domani",
+        "pl": "jutro",
+        "lvl": 0,
+        "sentence_it": "Ci vediamo domani mattina.",
+        "sentence_pl": "Widzimy się jutro rano."
+    },
+    {
+        "it": "ieri",
+        "pl": "wczoraj",
+        "lvl": 0,
+        "sentence_it": "Ieri sono andato in spiaggia.",
+        "sentence_pl": "Wczoraj poszedłem na plażę."
+    },
+    {
+        "it": "ora",
+        "pl": "godzina",
+        "lvl": 0,
+        "sentence_it": "Che ora è adesso?",
+        "sentence_pl": "Która jest teraz godzina?"
+    },
+    {
+        "it": "settimana",
+        "pl": "tydzień",
+        "lvl": 0,
+        "sentence_it": "Resto qui per una settimana.",
+        "sentence_pl": "Zostaję tutaj na tydzień."
+    },
+    {
+        "it": "uno",
+        "pl": "jeden",
+        "lvl": 0,
+        "sentence_it": "Prendo solo uno, grazie.",
+        "sentence_pl": "Wezmę tylko jeden, dziękuję."
+    },
+    {
+        "it": "due",
+        "pl": "dwa",
+        "lvl": 0,
+        "sentence_it": "Siamo in due.",
+        "sentence_pl": "Jesteśmy we dwoje."
+    },
+    {
+        "it": "tre",
+        "pl": "trzy",
+        "lvl": 0,
+        "sentence_it": "Ho tre biglietti.",
+        "sentence_pl": "Mam trzy bilety."
+    },
+    {
+        "it": "quattro",
+        "pl": "cztery",
+        "lvl": 0,
+        "sentence_it": "Il treno parte al binario quattro.",
+        "sentence_pl": "Pociąg odjeżdża z toru czwartego."
+    },
+    {
+        "it": "cinque",
+        "pl": "pięć",
+        "lvl": 1,
+        "sentence_it": "Ci vediamo alle cinque.",
+        "sentence_pl": "Widzimy się o piątej."
+    },
+    {
+        "it": "grazie",
+        "pl": "dziekuje",
+        "lvl": 0,
+        "sentence_it": "Grazie per la cena.",
+        "sentence_pl": "Dziękuję za kolację."
+    },
+    {
+        "it": "prego",
+        "pl": "prosze",
+        "lvl": 0,
+        "sentence_it": "Prego, entri pure.",
+        "sentence_pl": "Proszę, niech pan wejdzie."
+    },
+    {
+        "it": "per favore",
+        "pl": "poprosze",
+        "lvl": 1,
+        "sentence_it": "Mi aiuti, per favore?",
+        "sentence_pl": "Pomoże mi pan, poproszę?"
+    },
+    {
+        "it": "buongiorno",
+        "pl": "dzien dobry",
+        "lvl": 0,
+        "sentence_it": "Buongiorno a tutti.",
+        "sentence_pl": "Dzień dobry wszystkim."
+    },
+    {
+        "it": "buonasera",
+        "pl": "dobry wieczor",
+        "lvl": 0,
+        "sentence_it": "Buonasera, abbiamo prenotato un tavolo.",
+        "sentence_pl": "Dobry wieczór, zarezerwowaliśmy stolik."
+    },
+    {
+        "it": "arrivederci",
+        "pl": "do widzenia",
+        "lvl": 0,
+        "sentence_it": "Arrivederci, a presto.",
+        "sentence_pl": "Do widzenia, do zobaczenia wkrótce."
+    },
+    {
+        "it": "scusa",
+        "pl": "przepraszam",
+        "lvl": 0,
+        "sentence_it": "Scusa il ritardo.",
+        "sentence_pl": "Przepraszam za spóźnienie."
+    },
+    {
+        "it": "acqua",
+        "pl": "woda",
+        "lvl": 0,
+        "sentence_it": "L'acqua del mare è calda.",
+        "sentence_pl": "Woda w morzu jest ciepła."
+    },
+    {
+        "it": "birra",
+        "pl": "piwo",
+        "lvl": 0,
+        "sentence_it": "Mi porti un'altra birra?",
+        "sentence_pl": "Przyniesie mi pan kolejne piwo?"
+    },
+    {
+        "it": "vino",
+        "pl": "wino",
+        "lvl": 0,
+        "sentence_it": "Preferisco il vino bianco.",
+        "sentence_pl": "Preferuję białe wino."
+    },
+    {
+        "it": "caffe",
+        "pl": "kawa",
+        "lvl": 0,
+        "sentence_it": "Bevo un caffe senza zucchero.",
+        "sentence_pl": "Piję kawę bez cukru."
+    },
+    {
+        "it": "pane",
+        "pl": "chleb",
+        "lvl": 0,
+        "sentence_it": "Posso avere del pane?",
+        "sentence_pl": "Czy mogę prosić o chleb?"
+    },
+    {
+        "it": "formaggio",
+        "pl": "ser",
+        "lvl": 0,
+        "sentence_it": "Voglio assaggiare questo formaggio.",
+        "sentence_pl": "Chcę spróbować tego sera."
+    },
+    {
+        "it": "carne",
+        "pl": "mieso",
+        "lvl": 0,
+        "sentence_it": "Oggi mangiamo carne arrosto.",
+        "sentence_pl": "Dzisiaj jemy pieczone mięso."
+    },
+    {
+        "it": "pesce",
+        "pl": "ryba",
+        "lvl": 0,
+        "sentence_it": "A Palermo il pesce è fresco.",
+        "sentence_pl": "W Palermo ryba jest świeża."
+    },
+    {
+        "it": "spiaggia",
+        "pl": "plaza",
+        "lvl": 0,
+        "sentence_it": "Cerco una spiaggia libera.",
+        "sentence_pl": "Szukam darmowej plaży."
+    },
+    {
+        "it": "mare",
+        "pl": "morze",
+        "lvl": 0,
+        "sentence_it": "Il mare oggi è calmo.",
+        "sentence_pl": "Morze dzisiaj jest spokojne."
+    },
+    {
+        "it": "sole",
+        "pl": "slonce",
+        "lvl": 0,
+        "sentence_it": "Il sole picchia forte.",
+        "sentence_pl": "Słońce mocno grzeje."
+    },
+    {
+        "it": "caldo",
+        "pl": "goraco",
+        "lvl": 0,
+        "sentence_it": "Oggi fa troppo caldo.",
+        "sentence_pl": "Dzisiaj jest za gorąco."
+    },
+    {
+        "it": "freddo",
+        "pl": "zimno",
+        "lvl": 0,
+        "sentence_it": "Stasera fa un po' freddo.",
+        "sentence_pl": "Dziś wieczorem jest trochę zimno."
+    },
+    {
+        "it": "conto",
+        "pl": "rachunek",
+        "lvl": 0,
+        "sentence_it": "Posso avere il conto?",
+        "sentence_pl": "Czy mogę prosić o rachunek?"
+    },
+    {
+        "it": "quanto costa",
+        "pl": "ile kosztuje",
+        "lvl": 1,
+        "sentence_it": "Scusi, quanto costa questo?",
+        "sentence_pl": "Przepraszam, ile to kosztuje?"
+    },
+    {
+        "it": "dove",
+        "pl": "gdzie",
+        "lvl": 0,
+        "sentence_it": "Dove si trova il centro?",
+        "sentence_pl": "Gdzie znajduje się centrum?"
+    },
+    {
+        "it": "bagno",
+        "pl": "lazienka",
+        "lvl": 0,
+        "sentence_it": "Devo usare il bagno.",
+        "sentence_pl": "Muszę skorzystać z łazienki."
+    },
+    {
+        "it": "treno",
+        "pl": "pociag",
+        "lvl": 0,
+        "sentence_it": "Prendiamo il treno per Catania.",
+        "sentence_pl": "Bierzemy pociąg do Katanii."
+    },
+    {
+        "it": "autobus",
+        "pl": "autobus",
+        "lvl": 0,
+        "sentence_it": "A che ora passa l'autobus?",
+        "sentence_pl": "O której przejeżdża autobus?"
+    },
+    {
+        "it": "biglietto",
+        "pl": "bilet",
+        "lvl": 0,
+        "sentence_it": "Quanto costa il biglietto?",
+        "sentence_pl": "Ile kosztuje bilet?"
+    },
+    {
+        "it": "stazione",
+        "pl": "stacja",
+        "lvl": 0,
+        "sentence_it": "Ci vediamo alla stazione.",
+        "sentence_pl": "Widzimy się na stacji."
+    },
+    {
+        "it": "aeroporto",
+        "pl": "lotnisko",
+        "lvl": 0,
+        "sentence_it": "Il volo parte dall'aeroporto.",
+        "sentence_pl": "Lot rozpoczyna się z lotniska."
+    },
+    {
+        "it": "aereo",
+        "pl": "samolot",
+        "lvl": 0,
+        "sentence_it": "Viaggiare in aereo è veloce.",
+        "sentence_pl": "Podróżowanie samolotem jest szybkie."
+    },
+    {
+        "it": "destra",
+        "pl": "prawo",
+        "lvl": 0,
+        "sentence_it": "Gira a destra al semaforo.",
+        "sentence_pl": "Skręć w prawo na światłach."
+    },
+    {
+        "it": "sinistra",
+        "pl": "lewo",
+        "lvl": 0,
+        "sentence_it": "La farmacia è a sinistra.",
+        "sentence_pl": "Apteka jest po lewej."
+    },
+    {
+        "it": "dritto",
+        "pl": "prosto",
+        "lvl": 0,
+        "sentence_it": "Vai sempre dritto.",
+        "sentence_pl": "Idź cały czas prosto."
+    },
+    {
+        "it": "mangiare",
+        "pl": "jesc",
+        "lvl": 0,
+        "sentence_it": "Ho fame, voglio mangiare.",
+        "sentence_pl": "Jestem głodny, chcę jeść."
+    },
+    {
+        "it": "bere",
+        "pl": "pic",
+        "lvl": 0,
+        "sentence_it": "Cosa desidera bere?",
+        "sentence_pl": "Czego życzy pan sobie do picia?"
+    },
+    {
+        "it": "dormire",
+        "pl": "spac",
+        "lvl": 0,
+        "sentence_it": "Sono stanco, voglio dormire.",
+        "sentence_pl": "Jestem zmęczony, chcę spać."
+    },
+    {
+        "it": "parlare",
+        "pl": "mowic",
+        "lvl": 0,
+        "sentence_it": "Posso parlare con te?",
+        "sentence_pl": "Mogę z tobą porozmawiać?"
+    },
+    {
+        "it": "capire",
+        "pl": "rozumiec",
+        "lvl": 0,
+        "sentence_it": "Non riesco a capire.",
+        "sentence_pl": "Nie potrafię zrozumieć."
+    },
+    {
+        "it": "aiuto",
+        "pl": "pomoc",
+        "lvl": 0,
+        "sentence_it": "Ho bisogno di aiuto.",
+        "sentence_pl": "Potrzebuję pomocy."
+    },
+    {
+        "it": "medico",
+        "pl": "lekarz",
+        "lvl": 0,
+        "sentence_it": "Chiamate un medico, per favore.",
+        "sentence_pl": "Wezwijcie lekarza, proszę."
+    },
+    {
+        "it": "farmacia",
+        "pl": "apteka",
+        "lvl": 0,
+        "sentence_it": "Cerco una farmacia aperta.",
+        "sentence_pl": "Szukam otwartej apteki."
+    },
+    {
+        "it": "strada",
+        "pl": "ulica",
+        "lvl": 0,
+        "sentence_it": "Questa strada è lunga.",
+        "sentence_pl": "Ta ulica jest długa."
+    },
+    {
+        "it": "piazza",
+        "pl": "plac",
+        "lvl": 0,
+        "sentence_it": "La piazza è piena di gente.",
+        "sentence_pl": "Plac jest pełen ludzi."
+    },
+    {
+        "it": "oggi",
+        "pl": "dzisiaj",
+        "lvl": 0,
+        "sentence_it": "Cosa facciamo oggi?",
+        "sentence_pl": "Co dzisiaj robimy?"
+    },
+    {
+        "it": "domani",
+        "pl": "jutro",
+        "lvl": 0,
+        "sentence_it": "Domani vado a Palermo.",
+        "sentence_pl": "Jutro jadę do Palermo."
+    },
+    {
+        "it": "ieri",
+        "pl": "wczoraj",
+        "lvl": 0,
+        "sentence_it": "Ieri ha piovuto.",
+        "sentence_pl": "Wczoraj padało."
+    },
+    {
+        "it": "sempre",
+        "pl": "zawsze",
+        "lvl": 0,
+        "sentence_it": "Mangio sempre la pasta.",
+        "sentence_pl": "Zawsze jem makaron."
+    },
+    {
+        "it": "mai",
+        "pl": "nigdy",
+        "lvl": 0,
+        "sentence_it": "Non bevo mai vino.",
+        "sentence_pl": "Nigdy nie piję wina."
+    },
+    {
+        "it": "amico",
+        "pl": "przyjaciel",
+        "lvl": 0,
+        "sentence_it": "Lui è un mio amico.",
+        "sentence_pl": "On jest moim przyjacielem."
+    },
+    {
+        "it": "soldi",
+        "pl": "pieniadze",
+        "lvl": 0,
+        "sentence_it": "Non ho abbastanza soldi.",
+        "sentence_pl": "Nie mam wystarczająco pieniędzy."
+    }
+]
